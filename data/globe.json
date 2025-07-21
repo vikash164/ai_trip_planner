@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "continent": "Asia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.9629, 20.5937],
+            [78.9629, 20.5937],
+            [78.9629, 20.5937],
+            [78.9629, 20.5937],
+            [78.9629, 20.5937]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "continent": "Oceania"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [133.7751, -25.2744],
+            [133.7751, -25.2744],
+            [133.7751, -25.2744],
+            [133.7751, -25.2744],
+            [133.7751, -25.2744]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "continent": "Europe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.4515, 51.1657],
+            [10.4515, 51.1657],
+            [10.4515, 51.1657],
+            [10.4515, 51.1657],
+            [10.4515, 51.1657]
+          ]
+        ]
+      }
+    }
+  ]
+}
