@@ -123,10 +123,3 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Ensure html and body take full height */
-html, body, #__next {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  overflow: hidden; /* Prevent scrollbars due to globe positioning */
-}
