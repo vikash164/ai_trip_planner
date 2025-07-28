@@ -21,6 +21,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
 
+      <body className={`${geistSans.variable} ${geistMono.variable}`}>
 <Script
           id="tawkto-widget"
           strategy="afterInteractive"
@@ -39,8 +40,6 @@ export default function RootLayout({ children }) {
             `,
           }}
         />
-
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
       </body>
     </html>
